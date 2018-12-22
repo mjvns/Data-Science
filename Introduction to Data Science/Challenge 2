@@ -1,0 +1,5 @@
+1. Add a cell under the Flyers column that contains the total number of flyers Rosie distributed. Format this column using the Comma Style (,) number format so that the total is formatted like 00,000.00. 
+2. Note the total amount for the year, and then filter the data to find the number of flyers distributed in the month of January. Don’t forget to clear the filter when you’re done!
+
+Solution: The total flyers distributed are 14,704.00
+          The flyers distributed in the month of January are 727.00
