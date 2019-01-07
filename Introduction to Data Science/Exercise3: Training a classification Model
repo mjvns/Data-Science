@@ -1,0 +1,13 @@
+Challenge: Adjust the threshold by dragging the slider, and observe the effect on the model metrics.
+
+Solution: At threshold = 50:
+            True Positive: 45 False Negative: 5 False Positive: 3 True Negative: 57
+            Accuracy:0.927 Precision:0.938 Recall:0.900 F1Score:0.918
+            
+          At threshold = 25:
+            True Positive: 50 False Negative: 0 False Positive: 33 True Negative: 27
+            Accuracy:0.700 Precision:0.602 Recall:1.000 F1Score:0.752
+            
+          At threshold = 75:
+             True Positive: 24 False Negative: 26 False Positive: 0 True Negative: 60
+             Accuracy:0.764 Precision:1.000 Recall:0.480 F1Score:0.649
