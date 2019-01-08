@@ -1,0 +1,7 @@
+Challenge: Calculate Rainfall / Sales Correlation 
+1. Calculate the correlation between Rainfall and Sales.
+2. What does the correlation indicate?
+
+Solution:
+The correlation between Rainfall and Sales is found to be equal to -0.90921.
+This correlation indicates that the days with higher rainfall tends to have lower sales.
