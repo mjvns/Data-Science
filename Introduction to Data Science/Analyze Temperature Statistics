@@ -1,0 +1,10 @@
+Challenge: Analyze Temperature Statistics 
+1. Calculate the mean, median, mode, population variance, and population standard deviation of temperature.
+2. Create a histogram and a box and whiskers chart for temperature to visualize the distribution.
+
+Solution:
+1. Mean = 60.73123
+2. Median = 61.1
+3. Mode = 55.9
+4. Variance = 261.6003
+5. Std. dev = 16.17406
