@@ -1,0 +1,6 @@
+Test the following Hypothesis:
+Null Hypothesis: The increase in sales on days when the rainfall is below average can be explained by Chance.
+Alternate Hypothesis: The increase in sales on days when the rainfall is below average is too significant and cannot be explained by a mere chance.
+
+Solution: I used a Z-Test(One-tailed): and found that the p-value = 0.0000000000000000000033 which is much much less than the significance level = 0.05.
+          Hence the null Hypothesis is rejected in favour of Alternate Hypothesis.
